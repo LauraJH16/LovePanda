@@ -1,0 +1,35 @@
+body {
+    color: #fff;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #3d724a;
+    height: 168px;
+
+}
+
+.logo {
+    float: right;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.logo p {
+    float: right;
+}
+
+.banner-1 {
+    background: url('../assets/images/uno.jpg')
+}
+
+.banner{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 440px;
+}
